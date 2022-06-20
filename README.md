@@ -1,7 +1,7 @@
 # PythonExercicios
  Exercicios do curso de Python Curso em Video
 
-ex001 - Crie um programa que escreva olá mundo na tela/n
+ex001 - Crie um programa que escreva olá mundo na tela
 ex002 - Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas vindas
 ex003 - Crie um programa que leia dois números e mostre a soma entre eles
 ex004 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele
