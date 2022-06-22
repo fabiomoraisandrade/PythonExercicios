@@ -1,5 +1,5 @@
 # PythonExercicios
- Exercicios do curso de Python Curso em Video
+ Exercicios do curso de Python - Curso em Video
 
 - ex001 - Crie um programa que escreva olá mundo na tela.
 - ex002 - Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas vindas.
