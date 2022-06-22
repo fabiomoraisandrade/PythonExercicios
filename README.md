@@ -21,3 +21,19 @@ ex017 - Faça um programa que leia o comprimento do cateto oposto e do cateto ad
 ex018 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse angulo
 ex019 - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
 ex020 - O mesmo professor do ex019 uer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada
+ex021 - Faça um programa em python que abra e reproduza o áudio de um arquivo mp3
+ex022 - Crie um programa que leia o nome completo de uma pessoa e mostre:
+	- O nome com todas as letrass maiúsculas e minúsculas;
+	- Quantas letras ao todo (sem considerar espaços);
+	- Quantas letras tem o primeiro nome.
+ex023 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados
+ex024 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "Santo".
+ex025 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "Silva" no nome
+ex026 - Faça um programa que leia uma frase pelo teclado e mostre:
+	- Quantas vezes aparece a letra "A"
+	- Em que posição ela aparece a primeira vez
+	- Em que posição ela aparece a última vez
+ex027 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente
+ex028 - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o númeroo escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu
+ex029 - Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada km acima do limite
+ex030 - Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar
