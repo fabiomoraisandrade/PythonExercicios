@@ -37,3 +37,22 @@
 - ex028 - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o númeroo escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 - ex029 - Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada km acima do limite.
 - ex030 - Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.
+ex031 - Desenvolva um programa que pergunte a distância de uma viagem em km. Calcule o preço da passagem, cobrando R$0,50 por km para viagens de até 200km e R$0,45 para viagens mais longas.
+- ex032 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+- ex033 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+- ex034 - Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumneto de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+- ex035 - Desenvolva um programa que leia o comprimneto de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+- ex036 - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal, não pode exceder 30% do salário ou então o empréstimo será negado.
+- ex037 - Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
+	- 1 para binário;
+	- 2 para octal;
+	- 3 para hexadecimal.
+- ex038 - Escreva um programa que leia dois números inteiros e compare-os mostrando na tela uma mensagem:
+	- O primeiro valor é maior;
+	- O segundo valor é maior;
+	- Não existe valor maior, os dois são iguais.
+- ex039 - Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+- ex040 - Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+	- Média abaxio de 5.0: Reprovado;
+	- Média entre 5.0 e 6.9: Recuperação;
+	- Média 7.0 ou superior: Aprovado.
