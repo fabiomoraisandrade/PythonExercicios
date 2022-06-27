@@ -56,3 +56,30 @@ ex031 - Desenvolva um programa que pergunte a distância de uma viagem em km. Ca
 	- Média abaxio de 5.0: Reprovado;
 	- Média entre 5.0 e 6.9: Recuperação;
 	- Média 7.0 ou superior: Aprovado.
+- ex041 - A confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categora, de acordo com a idade:
+	- Até 9 anos: Mirim;
+	- Até 14 anos: Infantil;
+	- Até 19 anos: Junior;
+	- Até 25 anos: Sênior;
+	- Acima: Master.
+- ex042 - Refaça o ex035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+	- Equilátero: Todos os lados iguais;
+	- Isósceles: Dois lados iguais;
+	- Escaleno: Todos os lados diferentes.
+- ex043 - Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu IMC e mostre seu status, de acordo com a tabela abaixo:
+	- Abaixo de 18.5: Abaixo do peso;
+	- Entre 18.5 e 25: Peso ideal;
+	- 25 até 30: Sobrepeso;
+	- 30 até 40: Obesidade;
+	- Acima de 40: Obesidade mórbida.
+- ex044 - Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+	- À vista dinheiro/cheque: 10% de desconto;
+	- À vista no cartão: 5% de desconto;
+	- Em até 2x no cartão: preço normal;
+	- 3x ou mais no cartão: 20% de juros.
+- ex045 - Crie um programa que faça o computador jogar jokenpô com você.
+- ex046 - Faça um programa que mostre na tela uma contagem regressiva para estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+- ex047 - Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+- ex048 - Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+- ex049 - Refaça o ex009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+- ex050 - Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
