@@ -83,3 +83,22 @@ ex031 - Desenvolva um programa que pergunte a distância de uma viagem em km. Ca
 - ex048 - Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
 - ex049 - Refaça o ex009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 - ex050 - Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
+- ex051 - Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
+- ex052 - Faça um programa que leia um número inteiro e diga se ele é ou não um número primo
+- ex053 - Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
+- ex054 - Crie um programa que leia o ano de nascimneto de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores
+- ex055 - Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior eo menor peso lidos.
+- ex056 - Desenvolva um programa que leia o nome, idade, e sexo de 4 pessoas. No final do programa, mostre:
+	- A média de idade do grupo;
+	- Qual é o nome do homem mais velho;
+	- Quantas mulheres t~em menos de 20 anos.
+- ex057 - Faça um programa que leia o sexo de uma pessoa, mas só aceita os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
+- ex058 - Melhore o jogo do ex028 onde o computador vai "pensar" em um número entre 0 a 10. Só que agora o jogador vai tentar adivinhar até acertar, ostrando no final quantos palpites foram necessários para vencer.
+- ex059 - Crie um programa que leiai dois valores e mostre um menu como abaixo:
+	- [1]somar
+	- [2]multiplicar
+	- [3]maior
+	- [4]novos números
+	- [5]sair do programa
+	Seu programa deverá realizar a operação solicitada em cada caso.
+- ex060 - Faça um programa que leia um número qualquer e mostre o seu fatorial
