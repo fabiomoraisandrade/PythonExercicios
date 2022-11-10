@@ -13,17 +13,17 @@
 - ex010 - Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
 - ex011 - Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m^2.
 - ex012 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
-- ex013 - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumneto.
+- ex013 - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
 - ex014 - Escreva um programa que converta uma temperatura digitada em graus °C para °F.
 - ex015 - Escreva um programa que pergunte a quantidade de km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60,00 por dia e R$0,15 por km rodado.
 - ex016 - Crie um programa que leia um número real qualquer pelo teclado e mostre na tela a sua parte inteira.
 - ex017 - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo, calcule e mostre o comprimento da hipotenusa.
-- ex018 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse angulo.
+- ex018 - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 - ex019 - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome do escolhido.
-- ex020 - O mesmo professor do ex019 uer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+- ex020 - O mesmo professor do ex019 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 - ex021 - Faça um programa em python que abra e reproduza o áudio de um arquivo mp3.
 - ex022 - Crie um programa que leia o nome completo de uma pessoa e mostre:
-	- O nome com todas as letrass maiúsculas e minúsculas;
+	- O nome com todas as letras maiúsculas e minúsculas;
 	- Quantas letras ao todo (sem considerar espaços);
 	- Quantas letras tem o primeiro nome.
 - ex023 - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
@@ -33,15 +33,15 @@
 	- Quantas vezes aparece a letra "A";
 	- Em que posição ela aparece a primeira vez;
 	- Em que posição ela aparece a última vez.
-- ex027 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente
+- ex027 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 - ex028 - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o númeroo escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 - ex029 - Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada km acima do limite.
 - ex030 - Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.
-ex031 - Desenvolva um programa que pergunte a distância de uma viagem em km. Calcule o preço da passagem, cobrando R$0,50 por km para viagens de até 200km e R$0,45 para viagens mais longas.
+- ex031 - Desenvolva um programa que pergunte a distância de uma viagem em km. Calcule o preço da passagem, cobrando R$0,50 por km para viagens de até 200km e R$0,45 para viagens mais longas.
 - ex032 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 - ex033 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
-- ex034 - Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumneto de 10%. Para os inferiores ou iguais, o aumento é de 15%.
-- ex035 - Desenvolva um programa que leia o comprimneto de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+- ex034 - Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+- ex035 - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 - ex036 - Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal, não pode exceder 30% do salário ou então o empréstimo será negado.
 - ex037 - Escreva um programa que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão:
 	- 1 para binário;
@@ -84,34 +84,34 @@ ex031 - Desenvolva um programa que pergunte a distância de uma viagem em km. Ca
 - ex049 - Refaça o ex009, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 - ex050 - Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
 - ex051 - Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
-- ex052 - Faça um programa que leia um número inteiro e diga se ele é ou não um número primo
+- ex052 - Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
 - ex053 - Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços.
-- ex054 - Crie um programa que leia o ano de nascimneto de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores
-- ex055 - Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior eo menor peso lidos.
+- ex054 - Crie um programa que leia o ano de nascimneto de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+- ex055 - Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
 - ex056 - Desenvolva um programa que leia o nome, idade, e sexo de 4 pessoas. No final do programa, mostre:
 	- A média de idade do grupo;
 	- Qual é o nome do homem mais velho;
-	- Quantas mulheres t~em menos de 20 anos.
+	- Quantas mulheres tem menos de 20 anos.
 - ex057 - Faça um programa que leia o sexo de uma pessoa, mas só aceita os valores 'M' ou 'F'. Caso esteja errado, peça a digitação novamente até ter um valor correto.
-- ex058 - Melhore o jogo do ex028 onde o computador vai "pensar" em um número entre 0 a 10. Só que agora o jogador vai tentar adivinhar até acertar, ostrando no final quantos palpites foram necessários para vencer.
-- ex059 - Crie um programa que leiai dois valores e mostre um menu como abaixo:
+- ex058 - Melhore o jogo do ex028 onde o computador vai "pensar" em um número entre 0 a 10. Só que agora o jogador vai tentar adivinhar até acertar, mostrando no final quantos palpites foram necessários para vencer.
+- ex059 - Crie um programa que leia dois valores e mostre um menu como abaixo:
 	- [1]somar
 	- [2]multiplicar
 	- [3]maior
 	- [4]novos números
 	- [5]sair do programa
 	Seu programa deverá realizar a operação solicitada em cada caso.
-- ex060 - Faça um programa que leia um número qualquer e mostre o seu fatorial
-- ex061 - Refaça o ex051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while
+- ex060 - Faça um programa que leia um número qualquer e mostre o seu fatorial.
+- ex061 - Refaça o ex051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while.
 - ex062 - Melhore o ex061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerra quando ele disser que quer mostrar 0 termos.
 - ex063 - Escreva um programa que leia um número n inteiro qualquer e mostre na tela os n primeiros elementos de uma Sequência de Fibonacci.
 - ex064 - Crie um pograma que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag 999).
 - ex065 - Crie um programa que leia vários números inteiros pelo teclado. No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
 - ex066 - Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag 999).
 - ex067- Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo.
-- ex068 - Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo
-- ex069 - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário uer ou não continuar. No final, mostre:
-	- a) Quantas pessaos tem mais de 18 anos;
+- ex068 - Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+- ex069 - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
+	- a) Quantas pessoas tem mais de 18 anos;
 	- b) Quantos homens foram cadastrados.
 	- c) Quantas mulheres tem menos de 20 anos.
 - ex070 - Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final mostre:
