@@ -111,10 +111,10 @@ ex031 - Desenvolva um programa que pergunte a distância de uma viagem em km. Ca
 - ex067- Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo.
 - ex068 - Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo
 - ex069 - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário uer ou não continuar. No final, mostre:
-	a) Quantas pessaos tem mais de 18 anos;
-	b) Quantos homens foram cadastrados.
-	c) Quantas mulheres tem menos de 20 anos.
+	- a) Quantas pessaos tem mais de 18 anos;
+	- b) Quantos homens foram cadastrados.
+	- c) Quantas mulheres tem menos de 20 anos.
 - ex070 - Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final mostre:
-	a) Qual é o total gasto na compra;
-	b) Quantos produtos custam mais de R$1000,00;
-	c) Qual é o nome do produto mais barato.
+	- a) Qual é o total gasto na compra;
+	- b) Quantos produtos custam mais de R$1000,00;
+	- c) Qual é o nome do produto mais barato.
