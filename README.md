@@ -102,3 +102,19 @@ ex031 - Desenvolva um programa que pergunte a distância de uma viagem em km. Ca
 	- [5]sair do programa
 	Seu programa deverá realizar a operação solicitada em cada caso.
 - ex060 - Faça um programa que leia um número qualquer e mostre o seu fatorial
+- ex061 - Refaça o ex051, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while
+- ex062 - Melhore o ex061, perguntando para o usuário se ele quer mostrar mais alguns termos. O programa encerra quando ele disser que quer mostrar 0 termos.
+- ex063 - Escreva um programa que leia um número n inteiro qualquer e mostre na tela os n primeiros elementos de uma Sequência de Fibonacci.
+- ex064 - Crie um pograma que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag 999).
+- ex065 - Crie um programa que leia vários números inteiros pelo teclado. No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos. O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores.
+- ex066 - Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor 999, que é a condição de parada. No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag 999).
+- ex067- Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário. O programa será interrompido quando o número solicitado for negativo.
+- ex068 - Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo
+- ex069 - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário uer ou não continuar. No final, mostre:
+	a) Quantas pessaos tem mais de 18 anos;
+	b) Quantos homens foram cadastrados.
+	c) Quantas mulheres tem menos de 20 anos.
+- ex070 - Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final mostre:
+	a) Qual é o total gasto na compra;
+	b) Quantos produtos custam mais de R$1000,00;
+	c) Qual é o nome do produto mais barato.
