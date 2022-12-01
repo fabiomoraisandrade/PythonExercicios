@@ -112,27 +112,27 @@
 - ex068 - Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
 - ex069 - Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoa cadastrada, o programa deverá perguntar se o usuário quer ou não continuar. No final, mostre:
 	- a) Quantas pessoas tem mais de 18 anos;
-	- b) Quantos homens foram cadastrados.
+	- b) Quantos homens foram cadastrados;
 	- c) Quantas mulheres tem menos de 20 anos.
 - ex070 - Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar se o usuário vai continuar. No final mostre:
 	- a) Qual é o total gasto na compra;
 	- b) Quantos produtos custam mais de R$1000,00;
 	- c) Qual é o nome do produto mais barato.
 - ex071 - Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será o valor a ser sacado (número inteiro) e o programa vai informar quantas cédulas de cada valor serão entregues.
-	OBS: Considere que o caixa possui cédulas de R$50,00, R$20,00, R$10,00 e R$1,00
+	OBS: Considere que o caixa possui cédulas de R$50,00, R$20,00, R$10,00 e R$1,00.
 - ex072 - Crie um programa que tenha uma tupla totamente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
 - ex073 - Crie uma tabela preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
-	- a) Os 5 primeiros
-	- b) Os últimos 4 colocados
-	- c) Times em ordem alfabética
-	- d) Em que posição está o time da Chapecoense
+	- a) Os 5 primeiros;
+	- b) Os últimos 4 colocados;
+	- c) Times em ordem alfabética;
+	- d) Em que posição está o time da Chapecoense.
 - ex074 - Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla. Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor que estão na tupla.
 - ex075 - Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla. No final, mostre:
-	a) Quantas vezes apareceu o valor 9
-	b) Em que posição foi digitado o primeiro valor 3
-	c) Quais foram os números pares
+	- a) Quantas vezes apareceu o valor 9;
+	- b) Em que posição foi digitado o primeiro valor 3;
+	- c) Quais foram os números pares.
 - ex076 - Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
 - ex077 - Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
 - ex078 - Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
-- ex079 - Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serãoo exibidos todos os valores únicos digitados, em ordem crescente.
+- ex079 - Crie um programa onde o usuário possa digitar vários valores numéricos e cadastre-os em uma lista. Caso o número já exista lá dentro, ele não será adicionado. No final, serão exibidos todos os valores únicos digitados, em ordem crescente.
 - ex080 - Crie um programa onde o usuário possa digitar cinco valores numéricos e cadastre-os em uma lista, já na posição correta de inserção (sem usar o sort()). No final, mostre a lista ordenada na tela.
