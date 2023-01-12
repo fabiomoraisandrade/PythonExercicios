@@ -187,3 +187,9 @@
 - ex106 - Faça um mini-sistema que utilize o Interactive Help do python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra 'FIM', o programa se encerrará.
 	- OBS: Use cores.
 - ex107 - Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro() e metade(). Faça também um programa que importe esse módulo e use algumas dessas funções.
+- ex108 - Adapte o código do ex107 criando uma função adicional chamada moeda() que consiga mostrar os valores como um valor monetário formatado.
+- ex109 - Modifique as funções que foram criadas no ex107 para que elas aceitem um parâmetro a mais, informando se o valor retornado por elas vai ser ou não formatado pela função moeda(), desenvolvida do ex108.
+- ex110 - Adicione ao módulo moeda.py criado nos ex anteriores, uma função chamada resumo(), que mostre na tela algumas informações geradas pelas funções que já temos no módulo criado até aqui.
+- ex111 - Crie um pacote chamado utilizadesCeV que tenha dois módulos internos chamados moeda e dado. Transfira todas as funções utilizadas nos ex107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
+- ex112 - Dentro do pacote utilidadesCeV que criamos no ex111, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função input(), mas com uma validação de dados para aceitar apenas valores que sejam monetários.
+- ex113 - Reescreva a função leiaInt() que fizemos no ex104, incluindo agora a possibilidade da digitação de um número de tipo inválido. Aproveite e crie também uma função leiaFloat() com a mesma funcionalidade.
