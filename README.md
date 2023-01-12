@@ -172,3 +172,18 @@
 	- c) Uma contagem personalizada.
 - ex099 - Faça um programa que tenha uma função chamada maior(), que receba vários parâmetros com valores inteiros. Seu programa tem que analisar todos os valores e dizer qual deles é o maior.
 - ex100 - Faça um programa que tenha uma lista chamada números e duas funções chamadas sorteia() e somaPar(). A primeira função vai sortear 5 números e vai colocá-los dentro da lista e a segunda função vai mostrar a soma entre todos os valores PARES sorteados pela função anterior.
+- ex101 - Crie um programa que tenha uma função chamada voto() que vai receber como parâmetro o ano de nascimentoo de uma pessoa, retornando um valor literal indicando se uma pessoa tem voto NEGADO, OPCIONAL, ou OBRIGATORIO nas eleições.
+- ex102 - Crie um programa que tenha uma função fatorial() que receba dois parâmetros: o primeiro que indique o número a calcular e o outro chamado show, que será um valor lógico (opcional) indicando se será mostrado ou não na tela o processo de cálculo do fatorial.
+- ex103 - Faça um programa que tenha uma função chamada ficha(), que receba dois parâmetros opcionais: o nome de um jogador e quantos gols ele marcou. O programa deverá ser capaz de mostrar a ficha do jogador, mesmo que algum dado não tenha sido informado corretamente.
+- ex104 - Crie um programa que tenha a função leiaInt(), que vai funcionar de forma semelhante à função input() do python, só que fazendo a validação para aceitar apenas um valor numérico.
+	- Exemplo: n = leiaInt('Digite um n').
+- ex105 - Faça um programa que tenha uma função notas() que pode receber várias notas de alunos e vai retornar um dicionário com as seguintes informações:
+	- A quantidade de notas;
+	- A maior nota;
+	- A menor nota;
+	- A média da turma;
+	- A situação (opcional);
+	- Adiciona também as docstrings.
+- ex106 - Faça um mini-sistema que utilize o Interactive Help do python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra 'FIM', o programa se encerrará.
+	- OBS: Use cores.
+- ex107 - Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro() e metade(). Faça também um programa que importe esse módulo e use algumas dessas funções.
